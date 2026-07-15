@@ -1,0 +1,29 @@
+{
+  "activityEntities" : [
+    "projectCreated",
+    [
+      {
+        "createdDate" : "2026-07-13T16:27:09Z",
+        "event" : "projectCreated",
+        "id" : "2DD022C3-9404-4BBA-8B21-AC2670E46C52",
+        "subtitle" : "nutrisi",
+        "title" : "Project Created"
+      }
+    ]
+  ],
+  "authorName" : "Mitra 001",
+  "createdDate" : "2026-07-13T16:27:09Z",
+  "description" : "",
+  "id" : "11783D05-6306-4515-95F0-8A800A7934A4",
+  "license" : "",
+  "location" : "",
+  "modifiedDate" : "2026-07-13T16:27:09Z",
+  "projectName" : "nutrisi",
+  "settingsEntity" : {
+    "snapshotOnExtendTraining" : true,
+    "snapshotOnResumeTraining" : false
+  },
+  "taskType" : "generalClassifier",
+  "title" : "Tabular Classification",
+  "version" : "1.1"
+}

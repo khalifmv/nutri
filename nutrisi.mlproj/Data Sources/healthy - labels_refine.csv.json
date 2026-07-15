@@ -1,0 +1,147 @@
+{
+  "activityEntities" : [
+    "dataSourceTrainingStarted",
+    [
+      {
+        "createdDate" : "2026-07-13T16:27:31Z",
+        "event" : "dataSourceTrainingStarted",
+        "id" : "BF53F1C8-D110-46A2-8528-EA0A6AF500F5",
+        "subtitle" : "nutrisi 1",
+        "title" : "Used By"
+      },
+      {
+        "createdDate" : "2026-07-13T16:30:01Z",
+        "event" : "dataSourceTrainingStarted",
+        "id" : "078A56FB-5A09-41BD-8CEC-5E2101E66DAD",
+        "subtitle" : "nutrisi 2",
+        "title" : "Used By"
+      }
+    ],
+    "dataSourceMetrics",
+    [
+      {
+        "createdDate" : "2026-07-13T16:27:31Z",
+        "event" : "dataSourceMetrics",
+        "id" : "F9C74A6D-D12D-4704-9CFF-2C43A69342B7",
+        "subtitle" : "3 Classes, 221 Items",
+        "title" : "Data Summary"
+      },
+      {
+        "createdDate" : "2026-07-13T16:30:01Z",
+        "event" : "dataSourceMetrics",
+        "id" : "5AFE8CAB-9934-453A-AF5A-1B20E7CC5063",
+        "subtitle" : "3 Classes, 221 Items",
+        "title" : "Data Summary"
+      }
+    ]
+  ],
+  "createdDate" : "2026-07-13T16:27:16Z",
+  "dataPathRelativeToProjectURL" : "../../../Downloads/healthy%20-%20labels_refine.csv/",
+  "dataResult" : {
+    "columnTypes" : [
+      "Int",
+      "Double",
+      "Int",
+      "Int",
+      "Double",
+      "Int",
+      "Int",
+      "Int",
+      "Double",
+      "Double",
+      "Int",
+      "Double",
+      "Int",
+      "Int",
+      "Int",
+      "Int",
+      "String"
+    ],
+    "columnValues" : [
+      "1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30",
+      "95,00, 80,00, 105,00, 80,00, 45,00, 45,00, 77,00, 34,00, 52,00, 42,00, 24,00, 202,00, 60,00, 68,00, 101,00, 41,00, 30,00, 62,00, 72,00, 196,00, 198,00, 250,00, 177,00, 58,00, 16,00, 204,00, 182,00, 198,00, 17,00, 32,00",
+      "0, 10, 0, 1, 0, 0, 0, 0, 0, 0, 0, 2, 0, 1, 0, 0, 0, 1, 6, 13, 6, 23, 20, 5, 0, 27, 23, 26, 0, 0",
+      "0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 8, 20, 6, 38, 6, 2, 0, 17, 8, 24, 0, 0",
+      "0,00, 0,00, 0,00, 0,00, 0,00, 0,00, 0,00, 0,00, 0,00, 0,00, 0,00, 0,00, 0,00, 0,00, 0,00, 0,00, 0,00, 0,00, 0,00, 0,00, 0,00, 0,00, 0,00, 0,00, 0,00, 0,00, 0,00, 0,00, 0,00, 0,00",
+      "0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 62, 25, 34, 27, 0, 0, 0, 0, 0, 0, 0, 0",
+      "0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 3, 3, 4, 3, 6, 0, 30, 0, 0, 0, 0, 0",
+      "8, 1, 9, 8, 3, 4, 6, 3, 5, 4, 3, 18, 5, 6, 10, 4, 3, 5, 0, 0, 0, 0, 2, 2, 1, 1, 1, 1, 1, 3",
+      "17,00, 11,00, 12,00, 14,00, 9,00, 11,00, 10,00, 2,00, 7,00, 8,00, 9,00, 19,00, 6,00, 9,00, 20,00, 4,00, 3,00, 29,00, 0,00, 0,00, 0,00, 0,00, 12,00, 15,00, 0,00, 9,00, 7,00, 8,00, 5,00, 5,00",
+      "19,00, 0,00, 14,00, 15,00, 9,00, 7,00, 13,00, 7,60, 8,50, 6,20, 2,10, 46,00, 14,00, 15,00, 17,00, 8,10, 6,50, 5,60, 0,20, 0,00, 0,00, 0,00, 1,40, 0,00, 2,50, 1,30, 0,70, 0,70, 1,00, 2,90",
+      "0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0",
+      "0,50, 1,00, 1,30, 1,00, 0,90, 1,00, 1,60, 0,40, 1,00, 0,80, 0,90, 2,80, 1,50, 1,60, 0,60, 0,50, 0,50, 1,20, 6,30, 24,00, 37,00, 21,00, 6,20, 2,00, 1,10, 2,20, 4,30, 4,30, 1,80, 1,10",
+      "0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0",
+      "1, 0, 0, 0, 3, 2, 2, 0, 2, 2, 2, 3, 1, 1, 1, 1, 0, 2, 2, 1, 1, 1, 6, 6, 0, 2, 2, 4, 1, 1",
+      "1, 2, 1, 2, 0, 4, 2, 1, 1, 1, 3, 3, 2, 2, 2, 1, 1, 3, 5, 14, 7, 9, 6, 5, 2, 6, 5, 4, 4, 3",
+      "5, 6, 12, 2, 4, 4, 7, 2, 4, 5, 2, 12, 10, 7, 4, 2, 2, 4, 1, 8, 7, 6, 5, 1, 1, 2, 3, 4, 4, 4",
+      "sehat, cukup sehat, sehat, sehat, sehat, sehat, sehat, sehat, sehat, sehat, sehat, cukup sehat, sehat, sehat, sehat, sehat, sehat, sehat, sehat, sehat, sehat, cukup sehat, sehat, sehat, cukup sehat, sehat, sehat, sehat, sehat, sehat"
+    ],
+    "columns" : [
+      "Food_Id",
+      "Calories",
+      "Total_Fat_DV",
+      "Sat_Fat_DV",
+      "Trans_Fat",
+      "Cholesterol_DV",
+      "Sodium_DV",
+      "Carbs_DV",
+      "Fiber_DV",
+      "Total_Sugars (g)",
+      "Added_Sugars_DV",
+      "Protein (g)",
+      "Vitamin_D_DV",
+      "Calcium_DV",
+      "Iron_DV",
+      "Potassium_DV",
+      "Healthy(0)/Unhealthy(1)/In Moderation(2)"
+    ],
+    "createdDate" : "2026-07-13T16:27:16Z",
+    "dataAnalysis" : {
+      "classifierAnalysis" : {
+
+      },
+      "issues" : [
+        {
+          "description" : "No target selected",
+          "severity" : "notReady"
+        },
+        {
+          "description" : "Data has 221 rows",
+          "severity" : "info"
+        },
+        {
+          "description" : "No features selected",
+          "severity" : "notReady"
+        }
+      ],
+      "objectDetectorAnalysis" : {
+        "details" : {
+
+        }
+      },
+      "summary" : {
+        "canUseValidation" : 1,
+        "sampleCount" : 221
+      }
+    },
+    "dataSourceID" : "0CACBCA5-AE46-4FCB-9415-5043E7359ABB",
+    "dataURL" : "file:///Users/mitra001/Downloads/healthy%20-%20labels_refine.csv",
+    "error" : {
+      "code" : 1000,
+      "domain" : "composer.error.domain",
+      "errorType" : "notReady",
+      "reason" : "No target selected"
+    },
+    "itemsCount" : 221
+  },
+  "dataURL" : "file:///Users/mitra001/Downloads/healthy%20-%20labels_refine.csv",
+  "experimentIDs" : [
+    "1C9498C7-CD3F-418B-80DC-FBB7ADEDF618"
+  ],
+  "id" : "0CACBCA5-AE46-4FCB-9415-5043E7359ABB",
+  "modifiedDate" : "2026-07-13T16:30:01Z",
+  "pathType" : 0,
+  "preferredFilename" : "healthy - labels_refine.csv",
+  "title" : "healthy - labels_refine.csv",
+  "version" : "1.0"
+}
