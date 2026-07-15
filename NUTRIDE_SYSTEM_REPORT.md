@@ -1,8 +1,6 @@
 # NutriDe: Klasifikasi Kesehatan Makanan On-Device dari Label Nutrisi
 
 **Status:** MVP (Minimum Viable Product) — iOS, Swift/SwiftUI + Core ML
-**Terakhir diperbarui:** 14 Juli 2026
-**Penulis:** Mitra 001
 
 ---
 
